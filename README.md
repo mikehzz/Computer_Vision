@@ -3,6 +3,8 @@
 
 # 인프런 - 딥러닝 컴퓨터 비전 완벽 가이드
 
+https://mikehzz.github.io/categories/#computer-vision
+
 Object Detection의 이해
 ---
 
